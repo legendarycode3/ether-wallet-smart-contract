@@ -42,8 +42,9 @@ A Ether Wallet smart contract that allows :
 
 ## Usage
 ****Building the Project (Using Remix IDE):****
-1. Copy the core smart contract file code Voting.sol to Remix IDE (a browser based IDE, for quick prototyping).
+1. Copy the core smart contract file code EtherWallet.sol to Remix IDE (a browser based IDE, for quick prototyping).
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
+3. And then Compile the smart contract file you have created on Remix IDE.
 
 ## 📋Contract Details
 ### Functions:
