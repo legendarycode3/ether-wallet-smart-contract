@@ -3,6 +3,7 @@
 ## Project Overview
 A Ether Wallet smart contract that allows :
 * An authorized address to receive, hold.
+* The owner of an wallet address can be able to withdraw ETH.
 * User can gets their balance of amount left.
 
 ## 📌 Features
