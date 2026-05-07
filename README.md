@@ -49,6 +49,7 @@
 * ****`_amount`****: To specify the amount to be transfered.
 
 ## Usage Guide (How to use - When using Remix IDE)
+1. Compile: 
 
 ## Why This Matters (Ether Wallet Smart Contract)
 Ether Wallet smart contracts are crucial in web3 blockchain systems because they:
