@@ -5,6 +5,7 @@
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):****
 * ****Receive Function (receive()):****
+* ****Withdrawal mechanism (withdraw())****
 
 ## 🧠 Key Concepts Applied
 
