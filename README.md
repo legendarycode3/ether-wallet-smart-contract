@@ -3,6 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
+* ****Owner Authorization (onlyOwner modifier):****
 
 ## 🧠 Key Concepts Applied
 
