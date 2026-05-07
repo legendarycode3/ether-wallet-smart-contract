@@ -11,7 +11,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** For tracking a balance of a particular wallet using the address.
-* ****Modifiers:****
+* ****Modifiers:**** Utilized modifier to implement pre-conditions, for onlyOwner access control.
 
 ## 📂 Project Structure (Files)
 
