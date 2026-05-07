@@ -51,6 +51,7 @@ A Ether Wallet smart contract that allows :
   ```shell
     git clone https://github.com/legendarycode3/ether-wallet-smart-contract
   ```
+2.  Navigate to the directory you created and cloned the file to:
     
 
 ## 📋Contract Details
