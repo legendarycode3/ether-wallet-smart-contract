@@ -6,6 +6,7 @@
 * ****Owner Authorization (onlyOwner modifier):****
 * ****Receive Function (receive()):****
 * ****Withdrawal mechanism (withdraw())****
+* ****Balance Checker (getBalance()):****
 
 ## 🧠 Key Concepts Applied
 
