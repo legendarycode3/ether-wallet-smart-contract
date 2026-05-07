@@ -59,6 +59,8 @@ A Ether Wallet smart contract that allows :
    ```shell
      forge build
    ```
+   
+### Testing the contract (Using Foundry Development Kit ) 
     
 
 ## 📋Contract Details
