@@ -1,6 +1,7 @@
 #   💳 Ether Wallet Smart Contract
 
 ## Project Overview
+A Ether Wallet smart contract that allows candidates to be registered, votes to be cast. Where:
 
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive actions (like withdrawals) to the authorized user or set of users.
