@@ -20,6 +20,7 @@
 ## 📂 Project Structure (Files)
 
 ## Technology Stack (Technologies Used)
+* ****Solidity**** -
 
 ## Getting Started
 ### Prerequisites
