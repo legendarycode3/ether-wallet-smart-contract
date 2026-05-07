@@ -32,7 +32,7 @@
 ## 📋Contract Details
 ### Functions:
 * ****`onlyOwner()`****: implements a pre-conditions, for onlyOwner access control.
-* ****`receive()`****:
+* ****`receive()`****:  Enables the address to Receives Ether directly, updates the owner's balance, and emits a deposit event.
 * ****`withdraw`****:
 * ****`getBalance`****:
 ### Variables:
