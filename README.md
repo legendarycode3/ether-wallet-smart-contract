@@ -14,7 +14,7 @@
 * ****Modifiers:**** Utilized modifier to implement pre-conditions, for onlyOwner access control.
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****i_owner:**** Defined an owner address and made it payable, to be able to receivce funds.
-* ****Events:****
+* ****Events:**** Implementation of the events , to track the "Deposited" and the "Withdrawes" funds offchain.
 
 ## 📂 Project Structure (Files)
 
