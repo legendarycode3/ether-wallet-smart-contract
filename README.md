@@ -18,6 +18,7 @@
 * ****Custom Error:****  Defined and used custom errors, for gas optimation.
 
 ## 📂 Project Structure (Files)
+* `EtherWallet.sol`:
 
 ## Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
