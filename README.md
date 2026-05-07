@@ -4,7 +4,7 @@
 
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive actions (like withdrawals) to the authorized user or set of users.
-* ****Receive Function (receive()):**** 
+* ****Receive Function (receive()):****  A special, external function that
 * ****Withdrawal mechanism (withdraw())****
 * ****Balance Checker (getBalance()):****
 * ****Deposit Event Logging:****
