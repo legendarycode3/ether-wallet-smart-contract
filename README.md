@@ -31,6 +31,7 @@
 
 ## 📋Contract Details
 ### Functions:
+* ****`onlyOwner`****:
 * ****`receive()`****:
 * ****`withdraw`****:
 * ****`getBalance`****:
