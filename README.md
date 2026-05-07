@@ -33,6 +33,7 @@
 ### Functions:
 * ****`receive()`****:
 * ****`withdraw`****:
+* ****`getBalance`****:
 ### Variables:
 
 ## Usage Guide (How to use - When using Remix IDE)
