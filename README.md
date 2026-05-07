@@ -20,7 +20,8 @@
 ## 📂 Project Structure (Files)
 
 ## Technology Stack (Technologies Used)
-* ****Solidity**** - The programming language for writing the Smart contracts.
+* ****Solidity:**** - The programming language for writing the Smart contracts.
+* ****RemixIDE:**** -
 
 ## Getting Started
 ### Prerequisites
