@@ -11,6 +11,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** For tracking a balance of a particular wallet using the address.
+* ****Modifiers:****
 
 ## 📂 Project Structure (Files)
 
