@@ -2,7 +2,8 @@
 
 ## Project Overview
 A Ether Wallet smart contract that allows :
-* An authorized address to receive, holds, and also allows the owner to withdraw ETH . 
+* An authorized address to receive, hold.
+* User can gets their balance of amount left.
 
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive actions (like withdrawals) to the authorized user or set of users.
