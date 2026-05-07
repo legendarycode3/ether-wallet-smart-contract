@@ -51,7 +51,7 @@
 ## Usage Guide (How to use - When using Remix IDE)
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** After compiling , deploy the contract.
-3. 
+3. ****receivce:**** With the help of the receivce(built-in) function, Send in some ether into your wallet address as an authorized-owner, using the `low level interaction` to fund or deposit to the address. 
 
 ## Why This Matters (Ether Wallet Smart Contract)
 Ether Wallet smart contracts are crucial in web3 blockchain systems because they:
