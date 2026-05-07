@@ -62,6 +62,7 @@ A Ether Wallet smart contract that allows :
 ## Example Usage 
 * Deposit 1 ETH.
 * getBalance() → 1 ETH.
+* Withdraw 0.5 ETH →
 
 ## Why This Matters (Ether Wallet Smart Contract)
 Ether Wallet smart contracts are crucial in web3 blockchain systems because they:
