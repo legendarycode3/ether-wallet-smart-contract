@@ -19,7 +19,7 @@
 
 ## 📂 Project Structure (Files) 
 * ****`EtherWallet.sol`****: Core contract implementing receivce(built-in), withdraw(), and getBalance() functions.
-* ****`EtherWallet.t.sol`****:
+* ****`EtherWallet.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** - The programming language for writing the Smart contracts.
