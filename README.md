@@ -38,7 +38,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`onlyOwner()`****: implements a pre-conditions, for onlyOwner access control.
+* ****`onlyOwner()`****: Modifier implementation for a  pre-conditions, for onlyOwner access control.
 * ****`receive()`****:  Enables the address to Receives Ether directly, updates the owner's balance, and emits a deposit event.
 * ****`withdraw`****:  Withdraws a specified amount of Ether from the contract to the owner.
 * ****`getBalance`****:  Gets the current balance of the caller (address).
