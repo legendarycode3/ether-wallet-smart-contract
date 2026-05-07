@@ -4,6 +4,7 @@
 
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):****
+* ****Receive Function (receive()):****
 
 ## 🧠 Key Concepts Applied
 
