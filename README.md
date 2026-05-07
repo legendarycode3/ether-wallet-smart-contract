@@ -17,8 +17,8 @@
 * ****Events:**** Implementation of the events , to track the "Deposited" and the "Withdrawes" funds offchain.
 * ****Custom Error:****  Defined and used custom errors, for gas optimation.
 
-## 📂 Project Structure (Files)
-* ****`EtherWallet.sol`****:
+## 📂 Project Structure (Files) 
+* ****`EtherWallet.sol`****: Core contract implementing receivce(built-in), withdraw(), and getBalance() functions.
 * ****`EtherWallet.t.sol`****:
 
 ## Technology Stack (Technologies Used)
