@@ -3,8 +3,8 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive
-* ****Receive Function (receive()):****
+* ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive actions (like withdrawals) to the authorized user or set of users.
+* ****Receive Function (receive()):**** 
 * ****Withdrawal mechanism (withdraw())****
 * ****Balance Checker (getBalance()):****
 * ****Deposit Event Logging:****
