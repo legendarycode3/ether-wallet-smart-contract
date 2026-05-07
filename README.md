@@ -38,7 +38,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`constructor()`****: Called only once upon contract deployment.
+* ****`constructor()`****: Called only once upon contract deployment. Sets the msg.sender (the address deploying the contract) as a payable address initial `owner`.
 * ****`onlyOwner()`****: Modifier implementation for a  pre-conditions, for onlyOwner access control.
 * ****`receive()`****:  Enables the address to Receives Ether directly, updates the owner's balance, and emits a deposit event.
 * ****`withdraw`****:  Withdraws a specified amount of Ether from the contract to the owner.
