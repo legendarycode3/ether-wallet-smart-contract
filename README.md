@@ -67,6 +67,9 @@ Runing all tests:
   ```
 
 Runing specific test:
+  ```shell
+     forge test --mt testFunctionName
+  ```
     
 
 ## 📋Contract Details
