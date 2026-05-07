@@ -7,7 +7,7 @@
 * ****Receive Function (receive()):****  A special, external function that enables the contract to accept incoming Ether directly without calling other functions.
 * ****Withdrawal mechanism (withdraw()):**** A function that allows the owner to pull funds from the contract to a specified address, commonly using a "pull over push" approach to improve security.
 * ****Balance Checker (getBalance()):**** A public or external function that allows users to view the current amount of ETH held by the contract.
-* ****Deposit Event Logging:**** Emitting an event
+* ****Deposit Event Logging:**** Emitting an event  to make smart contract transactions easily trackable offchain through the blockchain.
 
 ## 🧠 Key Concepts Applied
 
