@@ -15,6 +15,7 @@
 
 ## 📋Contract Details
 ### Functions:
+### Variables:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
