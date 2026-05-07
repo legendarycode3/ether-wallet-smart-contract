@@ -37,7 +37,7 @@
 * ****`getBalance`****:  Gets the current balance of the caller (address).
 
 ### Variables:
-* ****`s_balances`****:
+* ****`s_balances`****: Variable that tracks the balance of a address using maps(address).
 
 ## Usage Guide (How to use - When using Remix IDE)
 
