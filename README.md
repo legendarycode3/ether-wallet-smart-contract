@@ -39,6 +39,7 @@
 ### Variables:
 * ****`s_balances`****: Variable that tracks the balance of a address using maps(address).
 * ****`i_owner`****: Immutable variable storing the owner’s address.
+* ****`_amount`****:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
