@@ -31,7 +31,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`onlyOwner`****:
+* ****`onlyOwner()`****: implements a pre-conditions, for onlyOwner access control.
 * ****`receive()`****:
 * ****`withdraw`****:
 * ****`getBalance`****:
