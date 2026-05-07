@@ -56,6 +56,9 @@ A Ether Wallet smart contract that allows :
       cd ether-wallet-smart-contract
     ```
 3. Compile the smart contract:
+   ```shell
+     forge build
+   ```
     
 
 ## 📋Contract Details
