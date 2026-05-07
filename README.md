@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Owner Authorization (onlyOwner modifier):****
+* ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive
 * ****Receive Function (receive()):****
 * ****Withdrawal mechanism (withdraw())****
 * ****Balance Checker (getBalance()):****
