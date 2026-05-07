@@ -59,7 +59,8 @@ A Ether Wallet smart contract that allows :
 3. ****receivce:**** With the help of the receivce(built-in) function, Send in some ether into your wallet address as an authorized-owner, using the `low level interaction` to fund or deposit to the address.
 4. ****withdraw:**** You can withdraw some funds from the funded address , by specifying the amount you want to
 
-### Example Usage 
+## Example Usage 
+* Deposit 1 ETH.
 
 ## Why This Matters (Ether Wallet Smart Contract)
 Ether Wallet smart contracts are crucial in web3 blockchain systems because they:
