@@ -15,7 +15,7 @@
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****i_owner:**** Defined an owner address and made it payable, to be able to receivce funds.
 * ****Events:**** Implementation of the events , to track the "Deposited" and the "Withdrawes" funds offchain.
-* ****Custom Error:**** 
+* ****Custom Error:****  Defined and used custom errors, for gas optimation.
 
 ## 📂 Project Structure (Files)
 
