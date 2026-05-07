@@ -12,7 +12,7 @@
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** For tracking a balance of a particular wallet using the address.
 * ****Modifiers:**** Utilized modifier to implement pre-conditions, for onlyOwner access control.
-* ****Constructor:**** 
+* ****Constructor:**** Sets the address that deploys the contract as the owner.
 
 ## 📂 Project Structure (Files)
 
