@@ -32,6 +32,7 @@
 ## 📋Contract Details
 ### Functions:
 * ****`receive()`****:
+* ****`withdraw`****:
 ### Variables:
 
 ## Usage Guide (How to use - When using Remix IDE)
