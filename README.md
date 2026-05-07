@@ -10,7 +10,7 @@
 * ****Deposit Event Logging:**** Emitting an event  to make smart contract transactions easily trackable offchain through the blockchain.
 
 ## 🧠 Key Concepts Applied
-* ****Mapping:**** 
+* ****Mapping:**** For tracking a balance of a particular wallet using the address.
 
 ## 📂 Project Structure (Files)
 
