@@ -5,7 +5,7 @@
 ## 📌 Features
 * ****Owner Authorization (onlyOwner modifier):**** A mechanism to restrict sensitive actions (like withdrawals) to the authorized user or set of users.
 * ****Receive Function (receive()):****  A special, external function that enables the contract to accept incoming Ether directly without calling other functions.
-* ****Withdrawal mechanism (withdraw())**** A function that allows the owner to pull funds
+* ****Withdrawal mechanism (withdraw())**** A function that allows the owner to pull funds from the contract to a specified address, commonly using a "pull over push"
 * ****Balance Checker (getBalance()):****
 * ****Deposit Event Logging:****
 
