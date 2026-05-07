@@ -7,6 +7,7 @@
 * ****Receive Function (receive()):****
 * ****Withdrawal mechanism (withdraw())****
 * ****Balance Checker (getBalance()):****
+* ****Deposit Event Logging:****
 
 ## 🧠 Key Concepts Applied
 
