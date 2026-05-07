@@ -30,6 +30,7 @@
 
 ## Getting Started
 ### Prerequisites
+* Solidity Compiler, Version ^0.8.18 or higher.
 
 ## 📋Contract Details
 ### Functions:
