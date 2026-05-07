@@ -61,6 +61,7 @@ A Ether Wallet smart contract that allows :
    ```
    
 ### Testing the contract (Using Foundry Development Kit ) 
+Runing all tests:
     
 
 ## 📋Contract Details
