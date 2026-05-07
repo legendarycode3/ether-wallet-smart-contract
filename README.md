@@ -26,7 +26,7 @@
 
 ## Why This Matters (Ether Wallet Smart Contract)
 Ether Wallet smart contracts are crucial in web3 blockchain systems because they:
-1. ****Eliminate Single Point of Failure:****
+1. Eliminate Single Point of Failure: Unlike traditional wallets where losing a
 
 ## Foundry
 
