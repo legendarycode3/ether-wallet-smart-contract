@@ -21,7 +21,8 @@
 
 ## Technology Stack (Technologies Used)
 * ****Solidity:**** - The programming language for writing the Smart contracts.
-* ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup"
+* ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development.
+
 
 ## Getting Started
 ### Prerequisites
