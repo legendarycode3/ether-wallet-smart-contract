@@ -14,6 +14,7 @@
 ### Prerequisites
 
 ## 📋Contract Details
+### Functions:
 
 ## Usage Guide (How to use - When using Remix IDE)
 
