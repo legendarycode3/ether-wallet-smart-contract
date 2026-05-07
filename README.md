@@ -1,4 +1,6 @@
-#  Ether Wallet Smart Contract
+#   💳 Ether Wallet Smart Contract
+
+## Project Overview
 
 
 ## Foundry
